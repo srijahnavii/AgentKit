@@ -1,7 +1,5 @@
 # research paper roadmap
 
-<!-- TODO: Add a description of what this AgentKit does -->
-<!-- TODO: Add setup instructions, prerequisites, and usage examples -->
 
 # Research Paper Implementation Roadmap Agent
 
