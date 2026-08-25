@@ -42,3 +42,24 @@ Implementation Roadmap Generator
      |
      v
 Implementation Roadmap
+
+
+## Example: Sending a PDF to the Webhook
+
+An example client is available in:
+
+examples/text_webhook.py
+
+Install the required packages:
+
+pip install requests pypdf
+
+Place a research paper PDF in the same directory and update the filename in the script.
+
+Then configure your deployed Lamatic webhook URL:
+
+url = "YOUR_LAMATIC_WEBHOOK_URL"
+
+Run:
+
+python examples/text_webhook.py
